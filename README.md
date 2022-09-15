@@ -26,8 +26,9 @@ Run the command -npm install in the localized terminal
 
 ## Usage
 
-
 To generate a professional readme from prompts given by an inquirer command.
+
+![cool](https://user-images.githubusercontent.com/106410591/190514466-4ecf6f97-ec79-4576-98e4-a3ac6c8ba5be.png)
 
 ## License
 
@@ -38,7 +39,11 @@ To generate a professional readme from prompts given by an inquirer command.
 
 ## Tests
 
-There are no tests for this project
+This is an example provided for the creation of the readme.
+
+
+https://user-images.githubusercontent.com/106410591/190514559-711d0444-18c9-44a3-a12d-1750045ac813.mp4
+
 
 ## Questions
 
