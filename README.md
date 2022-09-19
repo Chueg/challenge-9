@@ -41,8 +41,8 @@ To generate a professional readme from prompts given by an inquirer command.
 
 This is an example provided for the creation of the readme.
 
+[Untitled_ Sep 19, 2022 1_53 PM.webm](https://user-images.githubusercontent.com/106410591/191093751-f946f307-bc5b-4ac0-ac2c-45d7e1051617.webm)
 
-https://user-images.githubusercontent.com/106410591/190514559-711d0444-18c9-44a3-a12d-1750045ac813.mp4
 
 
 ## Questions
